@@ -1,7 +1,7 @@
 {
     "name": "node-express-typeorm",
     "version": "1.0.0",
-    "description": "Simple app with Express and TypeORM",
+    "description": "Simple app with Node, Express, TypeScript and TypeORM",
     "main": "index.ts",
     "scripts": {
         "build": "tsc --project .",
